@@ -1,0 +1,10 @@
+{
+  "name": "testcafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryokuman <ryokuman@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  }
+}
