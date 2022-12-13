@@ -6,5 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": ""
+  },
+  "dependencies": {
+    "testcafe": "^2.1.0"
   }
 }
